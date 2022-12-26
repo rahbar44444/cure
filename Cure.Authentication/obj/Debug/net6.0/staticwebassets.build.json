@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CIXlIq1ruiyxYDiN7I5+aFrtUofM9Ux2EqL4FeIt7NM=",
+  "Source": "Cure.Authentication",
+  "BasePath": "_content/Cure.Authentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
